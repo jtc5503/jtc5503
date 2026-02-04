@@ -8,10 +8,9 @@ Senior at **Embry-Riddle Aeronautical University** specializing in **High-Perfor
 * **Hardware:** Arduino Mega, Sensor Integration, Rapid Prototyping.
 
 ### 🚀 Featured Engineering Projects
-* **[EcoCAR EV Challenge: One-Pedal Drive](#)** - Lead the redesign of control architecture for a luxury EV platform.
-* **[Self-Balancing Robot](#)** - PID controller design and implementation for an inverted pendulum.
-* **[Arduino Environmental Assistant](#)** - Multi-sensor data logging and UI engineering.
+* **[EcoCAR EV Challenge: One-Pedal Drive](https://github.com/jtc5503/EcoCAR-OPD-System)** - Lead the redesign of control architecture for a luxury EV platform.
+* **[Self-Balancing Robot](https://github.com/jtc5503/Self-Balancing-Robot)** - PID controller design and implementation for an inverted pendulum.
+* **[Arduino Environmental Assistant](https://github.com/jtc5503/Arduino-Environmental-Assistant)** - Embedded system for environmental monitoring featuring custom UI and sensor integration.
 
 ### 🏆 Recognitions
-* **Dean's List:** Fall 2022 & Spring 2025.
-* **Lead Simulink Engineer:** EcoCAR EV Challenge.
+* **Dean's List:** Fall 2022 & Spring 2025
