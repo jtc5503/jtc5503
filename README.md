@@ -10,6 +10,8 @@ Senior at **Embry-Riddle Aeronautical University** specializing in **High-Perfor
 ### 🚀 Featured Engineering Projects
 * **[EcoCAR EV Challenge: One-Pedal Drive](https://github.com/jtc5503/EcoCAR-OPD-System)** - Lead the redesign of control architecture for a luxury EV platform.
 * **[Self-Balancing Robot](https://github.com/jtc5503/Self-Balancing-Robot)** - PID controller design and implementation for an inverted pendulum.
+* **[Spin-On Shaft Fatigue & FEA Analysis](https://github.com/jtc5503/Spin-On-Shaft-FEA-Analysis)**
+  *Structural integrity investigation using Ansys Workbench. Identified transient dynamic "jerk" as the primary failure mode through FEA and mesh convergence studies.*
 * **[Arduino Environmental Assistant](https://github.com/jtc5503/Arduino-Environmental-Assistant)** - Embedded system for environmental monitoring featuring custom UI and sensor integration.
 
 ### 🏆 Recognitions
