@@ -18,5 +18,5 @@ Senior at **Embry-Riddle Aeronautical University** specializing in **High-Perfor
 ### 🏆 Recognitions
 * **Dean's List:** Fall 2022 & Spring 2025
 * [cite_start]**Honor Roll:** Fall 2025
-* ---
+ ---
 [LinkedIn](https://www.linkedin.com/in/john-collins-mechanical-engineer) | [GitHub](https://github.com/jtc5503/jtc5503) | [Email](mailto:jtc5503@gmail.com)
